@@ -1,3 +1,3 @@
 FROM gamoreno/gamoreno
 RUN apt-get update
-ENTRYPOINT /gamoreno/gamoreno_go.sh
+ENTRYPOINT /gmr-master/gamoreno_go.sh
